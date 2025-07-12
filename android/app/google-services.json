@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "394911396198",
+    "project_id": "appointment-scheduling-app-dev",
+    "storage_bucket": "appointment-scheduling-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394911396198:android:4cac2c8596eae33c7698a7",
+        "android_client_info": {
+          "package_name": "com.aksharraj.appointement_scheduling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394911396198-rcsccee1jjob9fcbp2k71t1mhd3snfso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aksharraj.appointement_scheduling_app",
+            "certificate_hash": "e1fc1a87df5a10ffe39e71b5be0d457c75525b68"
+          }
+        },
+        {
+          "client_id": "394911396198-biaumrfp57sn37pkl9v6ho65itlvpoes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2q4WvI4i-c_JtxqUcgKgxdAXl_bt8Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394911396198-biaumrfp57sn37pkl9v6ho65itlvpoes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
